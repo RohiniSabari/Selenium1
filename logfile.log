@@ -1,0 +1,17 @@
+2023-12-26 17:34:26,107 INFO  [Log] open app 
+2023-12-26 17:34:31,321 INFO  [Log] login 
+2023-12-26 17:34:31,793 INFO  [Log] Logout 
+2023-12-26 17:34:33,926 INFO  [Log] close app 
+2023-12-26 17:34:43,955 INFO  [Log] open app 
+2023-12-26 17:34:50,599 INFO  [Log] login 
+2023-12-26 17:34:50,726 INFO  [Log] frame entered 
+2023-12-26 17:34:59,756 INFO  [Log] emp added 
+2023-12-26 17:34:59,788 INFO  [Log] Frame exit 
+2023-12-26 17:35:00,140 INFO  [Log] Logout 
+2023-12-26 17:35:02,133 INFO  [Log] close app 
+2023-12-26 17:35:10,957 INFO  [Log] open app 
+2023-12-26 17:35:17,426 INFO  [Log] login 
+2023-12-26 17:35:17,561 INFO  [Log] frame entered 
+2023-12-26 17:35:28,722 INFO  [Log] open app 
+2023-12-26 17:35:35,707 INFO  [Log] login 
+2023-12-26 17:35:35,776 INFO  [Log] frame entered 
